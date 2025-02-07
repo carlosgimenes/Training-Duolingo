@@ -1,4 +1,4 @@
-# Training LocalTreinamento - NomeDoTreinamento
+# Duolingo - My notes
 
 ## Estrutura do Repositório
 
@@ -24,5 +24,5 @@
 │   ├── NomeArquivo5.pdf
 ├── LICENSE
 ├── README.md
-├── Training-NomeDoTreinamento.md
+├── Training-Duolingo.md
 └── learning_notes.md
