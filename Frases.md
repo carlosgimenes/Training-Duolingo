@@ -2,7 +2,7 @@
 
 ## Frases aprendidas ao longo do tempo
 
-### 26/01/2023 - Aqui começa o registro das frases que aprendo nas lições que faço.
+### 26/01/2023 - Aqui começa o registro das frases que aprendo nas lições que faço
 
 A lot of messages. = Muitas mensagens.
 
