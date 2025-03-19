@@ -88,6 +88,7 @@ Do you often spend time in your garden? = Você frequentemente passa tempo no se
 Do you want me to look at all those papers right now, Mr. Smith?
 Do you want to have some hot tea? = Você quer beber um pouco de chá quente?
 Do you want to play basketball later? = Você quer jogar basquete mais tarde?
+Do you remember that trip? = Você se lembra daquela viagem?
 Do you take dancing lessons? = Você faz aulas de dança?
 Do you take medicine every day? = Você toma remédio todo dia?
 Do you think that I'm alergic to cats? = Você acha que eu sou alérgico a gatos?
@@ -119,6 +120,7 @@ Don't send too many massages.
 Don't start asking questions! = Não comece a fazer perguntas!
 Don't tell her anything. = Não diga nada a ela.
 
+Duo is using his laptop to study Portuguese. = O Duo está usando o laptop dele para estudar português.
 Duo wants to teach us. = O Duo quer nos ensinar.
 
 Each dog has a ball.
@@ -137,6 +139,8 @@ Fifty million people. = Cinquenta milhões de pessoas.
 Forty million dollars. = Quarenta milhões de dólares.
 
 Excuse me, what's the date today? = Com licença, qual é a data de hoje?
+
+Giuseppe is Italian. He comes from Rome, in Italy. = Giuseppe é italiano. Ele vem de Roma, na Itália.
 
 Give a pencil to each of the students. = Dê um lápis a cada um dos alunos.
 
@@ -162,6 +166,7 @@ He is having dinner with us. = Ele está jantando conosco.
 He likes his job because it is easy. = Ele gosta do trabalho dele porque ele é fácil.
 He never comes late to his appointments. = Ele nunca vem tarde para as consultas dele.
 He studies English every day. Ele estuda inglês todos os dias.
+He usually does a lot of work in France. = Ele normalmente faz muito trabalho na França.
 He usually has a cup of tea with breakfast.
 He wakes up and makes coffee at about 5 a.m. = Ele acorda e faz café cerca de 5 da manhã
 
@@ -206,6 +211,7 @@ I'm not thinking about anything. = Eu não estou pensando em nada.
 I can wait outside. = Eu posso esperar lá fora.
 I can't answer his question. = Eu não posso responder à pergunta dele.
 I can't go back. = Eu não posso voltar.
+I come from France. = Eu venho da França.
 I come home late sometimes and my mom worries. = Eu venho para casa tarde às vezes, e minha mãe se preocupa.
 I can't remember any Italian. = Eu não posso me lembrar nada de italiano.
 
@@ -320,6 +326,8 @@ Look at page eleven. = Olhe a página onze.
 Look the birds in that tree! = Olhe os pássaros naquela árvore!
 Luis often goes out for dinner. = Luis frequentemente sai para jantar.
 
+Marco is not German. = Marco não é alemão.
+
 Mom, can we start eating now? = Mãe, nós podemos começar a comer agora?
 
 Mrs. Turner, please stop talking. = Sra. Turner, por favor, pare de falar.
@@ -333,6 +341,7 @@ My children are having breakfast in the garden. = Meus filhos estão tomando caf
 My daughter is going to begin studying in January. = Minha filha vai começar a estudar em janeiro.
 My daughter loves reading. She reads a new book every week. = Minha filha ama ler. Ela lê um livro toda semana.
 My English homework is easier than my Spanish homework.
+My family comes from Germany, bu I don't speak German. = Minha família vem da Alemanha, mas eu não falo alemão.
 My father wants to go to Italy. = Meu pai quer ir para a Itália.
 My friend and I enjoy shopping. = Meu amigo e eu curtimos fazer compras.
 My home is near London, England. There are two big universities near here. Both universities are very famous, and both are very expensive.
@@ -367,8 +376,10 @@ Please, invite all your friends.
 Please, invite them to the party. = Por favor, os convide para a festa.
 Please, put both of your pens on your desk. Por favor, coloque ambas as suas canetas na sua mesa.
 Please, write a note to the teacher.
+Please write your first name and last name. = Por favor, escreva seu nome e sobrenome.
 
 Remembering that trip is fun. = Lembrar-me dessa viagem é divertido.
+Remembering their names is easy. = Lembrar-me dos nomes deles é fácil.
 
 Sara likes this class because it is interesting. = Sara gosta desta aula porque ela é interessante.
 
@@ -395,6 +406,8 @@ Sleeping indoors is safer. = Dormir em um lugar fechado é mais seguro.
 
 Some of the boys play whenball. = Alguns dos meninos jogam basquete.
 Some of my friends go dancing every week. = Alguns dos meus amigos vão dançar todas as semanas.
+
+Sorry, I'm not from France and I don't speak French. = Desculpe, eu não sou da França e não falo francês.
 
 Smoking indoors is not safe. = Fumar em um lugar fechado não é seguro.
 Students, can you see the blackboard from the back of the classroom? Alunos, vocês conseguem ver o quadro-negro do fundo da sala de aula?
@@ -534,7 +547,9 @@ What is your seat number?
 What kind of beer are you drinking? = Que tipo de cerveja você está bebendo?
 What kind of bread do you want?
 What kind of chocolate do you like? = De que tipo de chocolate você gosta?
+What kind of dictionary are you using? = Que tipo de dicionário você está usando?
 What kind of soup would you like? We have three different kinds today.
+What language are they speaking right now? = Que língua eles estão falando neste momento?
 What pages do we have to read? = Que páginas nós temos que ler?
 What street is this?
 What time does the bus arrive? = A que horas o ônibus chega?
