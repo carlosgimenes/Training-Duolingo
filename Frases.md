@@ -84,6 +84,7 @@ Do you like spendind time outdoors? = Você gosta de passar tempo ao ar livre?
 Do you like spending time with him? = Você gosta de passar tempo com ele?
 Do you like the green T-shirt? = Você gosta da camiseta verde?
 Do you need both of those pens? = Você precisa de ambas essas canetas?
+Do you need to sit down? = Você precisa se sentar?
 Do you often spend time in your garden? = Você frequentemente passa tempo no seu jardim?
 Do you want me to look at all those papers right now, Mr. Smith?
 Do you want to have some hot tea? = Você quer beber um pouco de chá quente?
@@ -134,11 +135,11 @@ Emma loves playing soccer. She plays every day with a group of her friends.
 
 Excuse me, I need a dictionary. = Com licença, eu preciso de um dicionário. 
 Excuse me, I need to go. = Com licença, eu preciso ir.
+Excuse me, what's the date today? = Com licença, qual é a data de hoje?
 
 Fifty million people. = Cinquenta milhões de pessoas.
 Forty million dollars. = Quarenta milhões de dólares.
-
-Excuse me, what's the date today? = Com licença, qual é a data de hoje?
+Fred often flies to Germany. = Fred frequentemente voa para a Alemanha.
 
 Giuseppe is Italian. He comes from Rome, in Italy. = Giuseppe é italiano. Ele vem de Roma, na Itália.
 
@@ -349,6 +350,7 @@ My husband always does a lot of work in Italy. = Meu marido sempre faz muito tra
 My husband doesn't enjoy shopping. = Meu marido não curte fazer compras.
 My mon worries a lot, but my dad never worries. = Minha mãe se preocupa muito, mas meu pai nunca se preocupa.
 My son asks a lot of questions.
+My teacher is Japanese. = Minha professora é japonesa.
 
 Music is my daughter's favorite subject. = Música é a matéria favorita da minha filha.
 
@@ -378,6 +380,10 @@ Please, put both of your pens on your desk. Por favor, coloque ambas as suas can
 Please, write a note to the teacher.
 Please write your first name and last name. = Por favor, escreva seu nome e sobrenome.
 
+Put down the bag! = Largue a bolsa!
+Put down your bags = Largue suas malas!
+
+Rosa takes a trip to Africa every year. = Rosa faz uma viagem para a África todos os anos.
 Remembering that trip is fun. = Lembrar-me dessa viagem é divertido.
 Remembering their names is easy. = Lembrar-me dos nomes deles é fácil.
 
@@ -438,7 +444,9 @@ The soccer game is on the radio. = O jogo de futebol está no radio.
 The teachers at my daughter's school are really good. = Os professores na escola da minha filha são muito bons.
 
 Their oldest child is fifteen years old. = O filho mais velho deles tem quinze anos de idade.
+Their train arrives at 10 a.m. = O trem deles chega às 10 da manhã.
 
+There are a lot of people at the airport. = Há muitas pessoas no aeroporto.
 There are no classroms on the first floor. = Não há salas de aula no primeiro andar.
 There are only ten people on this plane. = Há só dez pessoas neste avião.
 There are so many beaches here! = Há tantas praias aqui!
@@ -483,6 +491,8 @@ This note is for Miss Smith. = Este bilhete é para a senhorita Smith.
 This town has so many small businesses! = Esta cidade tem tantas negócios pequenos!
 
 Those birds are flying to a warm country. = Aqueles pássaros estão voando para um país quente.
+Those students are from Japan. = Aqueles estudantes são do Japão.
+
 They both come from rich families. = Aquelas meninas são mais baixas do que eu.
 They don't want to buy those cups. = Elas não querem comprar aquelas xícaras.
 
@@ -552,9 +562,11 @@ What kind of soup would you like? We have three different kinds today.
 What language are they speaking right now? = Que língua eles estão falando neste momento?
 What pages do we have to read? = Que páginas nós temos que ler?
 What street is this?
+What time do you wake up? = A que horas você acorda?
 What time does the bus arrive? = A que horas o ônibus chega?
 What time would you like to arrive? = A que horas você gostaria de chegar?
 What's your favorite subject? = Qual é sua matéria favorita?
+What's the biggest country in Asia? = Qual o maior país da Ásia?
 What's the first sentence on page four? = Qual é a primeira frase na página quatro?
 What's the weather like right now?
 What's the weather like today?
@@ -596,6 +608,7 @@ Which trip is the most interesting? = Qual viagem é a mais interessante?
 Who do you go fishing with? = Com quem você vai pescar?
 
 Who has the most dangerous job? = Quem tem o trabalho mais perigoso?
+Who is helping you? = Quem está ajudando você?
 Who is the richest person in China? = Quem é a pessoa mais rica da China?
 Who is the richest soccer player in the world? = Quem é o jogador de futebol mais rico do mundo?
 Who is the woman with the big glasses?
