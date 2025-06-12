@@ -29,6 +29,7 @@ Are you going up or down? = Você está subindo ou descendo?
 
 Ask for a room with a big window. = Peça um quarto com uma janela grande.
 
+Artur is happy because he started his new job this morning! = O Arthur está feliz porque ele começou o emprego novo dele hoje de manhã!
 At the end of the road, stop, and turn left. = No fim da estrada, pare e vire à esquerda.
 
 Bananas are my favorite fruit. = Bananas são minha fruta favorita.
@@ -56,6 +57,7 @@ Can you stop the car, please? = Você pode parar o carro, por favor?
 Can you tell me your name? = Você pode me dizer seu nome?
 Can we go to the bookstore? = Nós podemos ir à livraria?
 
+Carolina lived and worked in France for one year. = A Carolina morou e trabalhou na França por um ano.
 Coffee often gives me a bad headache! =  Café frequentemente me dá uma forte dor de cabeça!
 
 Could you buy some paper for me? = Você pode comprar um pouco de papel para mim?
@@ -130,6 +132,7 @@ Each of the lessons is important. = Cada uma das lições é importante.
 Each of the students has to answer a question. = Cada um dos alunos tem que responder a uma pergunta.
 
 Elisa lives in France. = Elisa mora na França.
+Elisa started her new job in January. = A Elisa começou o trabalho novo dela em janeiro.
 
 Emma loves playing soccer. She plays every day with a group of her friends.
 
@@ -140,7 +143,7 @@ Excuse me, what's the date today? = Com licença, qual é a data de hoje?
 Fifty million people. = Cinquenta milhões de pessoas.
 Forty million dollars. = Quarenta milhões de dólares.
 Fred often flies to Germany. = Fred frequentemente voa para a Alemanha.
-
+Fred worked in Asia last year. = O Fred trabalhou na Ásia no ano passado.
 Giuseppe is Italian. He comes from Rome, in Italy. = Giuseppe é italiano. Ele vem de Roma, na Itália.
 
 Give a pencil to each of the students. = Dê um lápis a cada um dos alunos.
@@ -153,6 +156,7 @@ Go to the end of the street. = Vá até o fim da rua.
 Go up and turn right at the end of the street. = Sua e vire à direita no fim da rua.
 Go up that street and find a taxi. = Suba aquela rua e encontre um táxi.
 
+Hans comes from Germany. = Hans vem da Alemanha.
 Have eggs for dinner is very French! = Comer ovos no jantar é bem francês!
 
 He always carries his guitar to class. = Ele sempre carrega o violão dele para a aula.
@@ -170,7 +174,7 @@ He studies English every day. Ele estuda inglês todos os dias.
 He usually does a lot of work in France. = Ele normalmente faz muito trabalho na França.
 He usually has a cup of tea with breakfast.
 He wakes up and makes coffee at about 5 a.m. = Ele acorda e faz café cerca de 5 da manhã
-
+He work there for one week. = Ele trabalhou lá por uma semana.
 He's buying ice cream and bananas. = Ele está comprando sorvete e bananas.
 He's going out with a group of friends. = Ele está saindo com um grupo de amigos.
 He's not answering me.
@@ -206,6 +210,7 @@ I always buy coffee at that café. = Eu sempre compro café naquele café.
 
 I am buying this sandwich for them. = Eu estou comprando este sanduíche para elas.
 
+I called Madonna yesterday. = Eu liguei para a Madonna ontem.
 I'm giving a book to him. = Eu estou dando um livro a ele.
 I'm not thinking about anything. = Eu não estou pensando em nada.
 
@@ -251,6 +256,7 @@ I nerver go into that store. = Eu nunca entro naquela loja.
 
 I only have two pencils. = Eu tenho apenas dois lápis.
 
+I talked to Emma last week. = Eu falei com a Emma na semana passada.
 I usually go shopping on Saturdays. = Eu normalmente vou às compras nos sábados.
 
 I want to be a doctor as well. = Eu quero ser um médico também.
@@ -288,6 +294,7 @@ Is it a red or blue shirt? = É uma camisa vermelha ou azul?
 Is it raining now? = Está chovendo agora?
 Is it snowing hard there? = Está nevando forte lá?
 Is it summer now? = É verão agora?
+Is she studying Japanese? = Ela está estudando japonês?
 Is the zoo open or closed today?
 Is there a bus stop near here?
 Is this for us? = Isto é para nós?
@@ -390,6 +397,7 @@ Remembering their names is easy. = Lembrar-me dos nomes deles é fácil.
 Sara likes this class because it is interesting. = Sara gosta desta aula porque ela é interessante.
 
 She always eats a sandwich for lunch. = Ela sempre come um sanduíche no almoço.
+She called the doctor last week. = Ela ligou para o médico na semana passada.
 She comes from France. = Ela vem da França.
 She comes from a small town. = Ela vem de uma cidade pequena.
 She enjoys reading books. = Ela curte ler livros.
@@ -402,8 +410,10 @@ She has to leave class early. = Ela tem que sair da aula cedo.
 She paints pictures of cows. = Ela pinta imagens de vacas. 
 She practices soccer every weekend. = Ela pratica futebol todos os fins de semana.
 She nerver thinks about money. = Ela nunca pensa em dinheiro.
+She started her English class yesterday. = Ela começou a aula de inglês dela ontem.
 She shows the teacher her homework every day. = Ela mostra à professora o trabalho para casa dela todos os dias.
 She sees us and we see her. = Ela nos vê e nós a vemos.
+She's traveling in Asia right now. = Ela está viajando na Ásia neste momento.
 She usually goes out for lunch. = Ela normalmente sai para almoçar.
 She wants to get a smaller table. = Ela quer comprar uma mesa menor.
 She works as a waitress as well. = Ela trabalha como garçonete também.
@@ -442,7 +452,7 @@ The restaurant is past the bus station. = O restaurante é além da rodoviária.
 The richest people in the country. = As pessoas mais ricas do país.
 The soccer game is on the radio. = O jogo de futebol está no radio.
 The teachers at my daughter's school are really good. = Os professores na escola da minha filha são muito bons.
-
+The teacher talked to them after class. = O professor falou com elas depois da aula.
 Their oldest child is fifteen years old. = O filho mais velho deles tem quinze anos de idade.
 Their train arrives at 10 a.m. = O trem deles chega às 10 da manhã.
 
@@ -465,8 +475,8 @@ There's a store inside the museum. = Há uma loja dentro do museu.
 There isn't a patio at my house. = Não há pátio na minha casa.
 There isn't a patio at this hotel. = Não há pátio neste hotel.
 
-These are my favorite cities.
-These letters are really important.
+These are my favorite cities. = Estas são minhas cidades favoritas.
+These letters are really important. = Estas cartas são realmente importantes.
 These streets are not safe at night. = Estas ruas não são seguras à noite.
 
 They are going out with some friends. = Elas estão saindo com alguns amigos.
@@ -474,9 +484,10 @@ They are not excited. = Eles não estão animados.
 They are not ready to go. = Eles não estão prontos para ir.
 They aren't going to have any parties here. = Eles não vão fazer nenhuma festa aqui.
 They both come from rich families. = Ambos vêm de famílias ricas.
-They both have very big families.
+They both have very big families. = Ambos têm famílias muito grandes.
 They enjoy cooking with him. = Eles gostam de cozinhar com ele.
 They have many conversations about sports. = Eles têm muitas conversas sobre esportes.
+They lived there for two months. = Elas viveram lá por dois meses.
 They need to go to school. = Eles precisam ir para a escola.
 They often go out for lunch. = Eles frequentemente saem para almoçar.
 
@@ -517,6 +528,7 @@ We like all of these houses. = Nós gostamos de todas estas casas.
 We like both schools very much. = Nós gostamos muito de ambas as escolas.
 We like eating outdoors in the summer. = Nós gostamos de comer ao ar livre no verão.
 We like eating outdoors when the weather is nice. = Nós gostamos de comer ao ar livre quando o tempo está agradável.
+We lived in Germany last year. = Nós vivemos na Alemanha no ano passado.
 We love cooking outdoors in the summer.
 We need to turn right at the end of this street.
 We never have good weather. = Nós nunca temos tempo bom.
@@ -620,6 +632,7 @@ Would you like to eat some pizza? Would you like a salad, too?
 
 Wow, the actor's voice is perfect!
 
+Yes, I called Mr. Turner, and I talked to him about it yesterday. = Sim, eu liguei para o Sr. Turner e conversei com ele sobre isto ontem.
 You always make my coffee wrong!
 You aren't answering me. Could you answer the question, please?
 You can't sit there, that's David's seat!
@@ -627,3 +640,4 @@ You can't turn left here. = Você não pode virar à esquerda aqui.
 You need to ask for an appointment. = Você precisa pedir uma consulta.
 You need to come early to your appointment. = Você precisa vir cedo para sua consulta.
 
+Your dad called yesterday. = Seu pai ligou ontem.
