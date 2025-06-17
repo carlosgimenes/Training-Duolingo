@@ -10,6 +10,7 @@ After class, I'm going to go home. = Depois da aula, eu vou para casa.
 
 Alex usually wakes up at about 7 a.m. = Alex normalmente acorda cerca de 7 da manhã.
 All museums are closed today? = Todos os museus estão fechados hoje?
+All of my friends liked that movie. = Todos os meus amigos gostaram daquele filme.
 All of the trains are fast. = Todos os trens são rápidos.
 
 An important subject. = Uma matéria importante.
@@ -58,6 +59,9 @@ Can you tell me your name? = Você pode me dizer seu nome?
 Can we go to the bookstore? = Nós podemos ir à livraria?
 
 Carolina lived and worked in France for one year. = A Carolina morou e trabalhou na França por um ano.
+
+Clara helped me with this lesson. = Clara me ajudou com esta lição.
+
 Coffee often gives me a bad headache! =  Café frequentemente me dá uma forte dor de cabeça!
 
 Could you buy some paper for me? = Você pode comprar um pouco de papel para mim?
@@ -68,6 +72,7 @@ Cows like salt. = Vacas gostam de sal.
 Daniel will get some tomatoes. = Daniel comprará alguns tomates.
 
 Dear Mr. and Mrs. Smith. = Prezados Sr. e Sra. Smith.
+Debbie studied all night, but now she is going to be late for her test! = A Debbie estudou a noite toda, mas agora ela vai se atrasar para o teste dela!
 
 Do animals listen to music? = Os Animais ouvem música?
 Do fish have breakfast every morning? = Os peixes tomam café da manhã todas as manhãs?
@@ -140,6 +145,8 @@ Excuse me, I need a dictionary. = Com licença, eu preciso de um dicionário.
 Excuse me, I need to go. = Com licença, eu preciso ir.
 Excuse me, what's the date today? = Com licença, qual é a data de hoje?
 
+Fernanda helped me a lot. = Fernanda me ajudou muito.
+Fernanda studied in Europe last year. = Fernanda estudou na Europa no ano passado.
 Fifty million people. = Cinquenta milhões de pessoas.
 Forty million dollars. = Quarenta milhões de dólares.
 Fred often flies to Germany. = Fred frequentemente voa para a Alemanha.
@@ -161,6 +168,7 @@ Have eggs for dinner is very French! = Comer ovos no jantar é bem francês!
 
 He always carries his guitar to class. = Ele sempre carrega o violão dele para a aula.
 He always wears jeans. = Ele sempre veste jeans.
+He asked me about about you. = Ele me perguntou sobre você.
 He carries a coat to work, but he never wears it. = Ele carrega um casaco para o trabalho, mas ele nunca o veste.
 He comes from the US. = Ele vem dos Estados Unidos.
 He enjoys swimming outdoors. = Ele curte nadar ao ar livre.
@@ -170,6 +178,7 @@ He is going to start working next week. = Ele vai começar a trabalhar na próxi
 He is having dinner with us. = Ele está jantando conosco.
 He likes his job because it is easy. = Ele gosta do trabalho dele porque ele é fácil.
 He never comes late to his appointments. = Ele nunca vem tarde para as consultas dele.
+He really wanted to go to Europe with us. = Ele queria muito ir para a Europa conosco.
 He studies English every day. Ele estuda inglês todos os dias.
 He usually does a lot of work in France. = Ele normalmente faz muito trabalho na França.
 He usually has a cup of tea with breakfast.
@@ -245,6 +254,7 @@ I like listening to music. = Eu gosto de ouvir música.
 I like my teachers very much. = Eu gosto muito dos meus professores.
 I like that house. "Its" door is red.
 I like to draw pictures of animals.
+I lived in Australia for a year. = Eu vivi na Austrália por um ano.
 
 I love reading outside on a sunny day. I always read outside when the wheather is nice. = Eu amo ler ao ar livre em um dia ensolarado. Sempre leio ao ar livre quando o clima está agradável.
 I love reading the newspaper on Saturday morning. = Eu amo ler o jornal no sábado de manhã.
@@ -252,6 +262,7 @@ I love playing music with a group. = Eu amo tocar música com um grupo.
 I love singing! = Eu amo cantar!
 
 I need to buy food before the party. = Eu preciso comprar comida antes da festa.
+I needed more food. = Eu precisei de mais comida.
 I nerver go into that store. = Eu nunca entro naquela loja.
 
 I only have two pencils. = Eu tenho apenas dois lápis.
@@ -274,6 +285,8 @@ I worry about my job sumetimes. = Eu as vezes me preocupo com meu trabalho.
 I'd like bread with butter.
 I'd like some soup.
 
+I really enjoyed that meal. = Eu curti muito essa refeição.
+I stopped smoking last year. = Eu parei de fumar no ano passado.
 I would love to stay, but the bus is leaving. = Eu amaria ficar, mas o ônibus está saindo.
 
 I'm buying coffe for him. I'm buying him coffe. = Eu estou comprando café para ele. Eu estou comprando café para ele.
@@ -314,6 +327,7 @@ It's very cold this morning.
 It's very dark and cloudy today! Is it raining, too?
 It's very windy here. How's the wheater there?
 
+It rained hard las night. = Choveu forte na noite passada.
 It will be possible soon. = Será possível em breve.
 
 Kristy loves drinking orange juice in her favorite seat at her favorite café. = A Kristy ama beber suco de laranja no assento favorito dela, na cafeteria favorita dela.
@@ -339,18 +353,22 @@ Marco is not German. = Marco não é alemão.
 Mom, can we start eating now? = Mãe, nós podemos começar a comer agora?
 
 Mrs. Turner, please stop talking. = Sra. Turner, por favor, pare de falar.
+Ms. Smith helped Charlie with his homework. = A Sra. Smith ajudou o Charile com o dever de casa dele.
 
 My baby can't have lunch, he doesn't have teeth! = Meu bebê não pode almoçar, ele não tem dentes!
 My baby only has one tooth but It's big! = Meu bebê tem apenas um dente, mas é grande!
 My brother is older than me.
 My brother is taking an English test right now. = Meu irmão está fazendo um teste de inglês neste momento.
+My brothers played basketball and soccer. = Meus irmãos jogaram basquete e futebol.
 My cat isn't listening to me.
 My children are having breakfast in the garden. = Meus filhos estão tomando café da manhã no jardim.
+My dad carried my bags for me. Meu pai carregou minhas bolsa para mim.
 My daughter is going to begin studying in January. = Minha filha vai começar a estudar em janeiro.
 My daughter loves reading. She reads a new book every week. = Minha filha ama ler. Ela lê um livro toda semana.
 My English homework is easier than my Spanish homework.
 My family comes from Germany, bu I don't speak German. = Minha família vem da Alemanha, mas eu não falo alemão.
 My father wants to go to Italy. = Meu pai quer ir para a Itália.
+My food wasn't hot. = Minha comida não estava quente.
 My friend and I enjoy shopping. = Meu amigo e eu curtimos fazer compras.
 My home is near London, England. There are two big universities near here. Both universities are very famous, and both are very expensive.
 My husband always does a lot of work in Italy. = Meu marido sempre faz muito trabalho na Itália.
@@ -371,6 +389,7 @@ Oh, there isn't a desk in this bedroom! = Oh, não há mesa neste quarto!
 Our doctors are always friendly. = Nossas médicas são sempre amigáveis.
 Our family likes eating outdoors in the summer. When it's really hot, we eat indoors. = Nossa família gosta de comer ao ar livre no verão. Quando está muito quente, nós comemos em um lugar fechado.
 Our farm is close to the village. = Nossa fazenda é perto da vila.
+Our house wasn't big, but it was a happy home! = Nossa casa não era grande, mas era uma casa feliz.
 Our teacher always gives us homework. = Nossa professora sempre nos dá trabalho para casa.
 
 Parents always worry about their children. = Os pais sempre se preocupam com os filhos deles.
@@ -397,7 +416,9 @@ Remembering their names is easy. = Lembrar-me dos nomes deles é fácil.
 Sara likes this class because it is interesting. = Sara gosta desta aula porque ela é interessante.
 
 She always eats a sandwich for lunch. = Ela sempre come um sanduíche no almoço.
+She and I were walking tha night. = Ela e eu estávamos andando naquela noite.
 She called the doctor last week. = Ela ligou para o médico na semana passada.
+She carried the baby in her arms. = Ela carregou o bebê nos braços dela.
 She comes from France. = Ela vem da França.
 She comes from a small town. = Ela vem de uma cidade pequena.
 She enjoys reading books. = Ela curte ler livros.
@@ -407,16 +428,19 @@ She likes this bread because it is sweeet. = Ela gosta deste pão porque ele é 
 She loves playing tennis. = Ela ama jogar tênis. 
 She has a computer, but she never uses it. = Ela tem um computador, mas ela nunca o usa.
 She has to leave class early. = Ela tem que sair da aula cedo.
-She paints pictures of cows. = Ela pinta imagens de vacas. 
+She paints pictures of cows. = Ela pinta imagens de vacas.
 She practices soccer every weekend. = Ela pratica futebol todos os fins de semana.
+She never asked her mom. = Ela nunca perguntou à mãe dela.
 She nerver thinks about money. = Ela nunca pensa em dinheiro.
 She started her English class yesterday. = Ela começou a aula de inglês dela ontem.
+She studied French for two years. = Ela estudou francês por dois anos.
 She shows the teacher her homework every day. = Ela mostra à professora o trabalho para casa dela todos os dias.
 She sees us and we see her. = Ela nos vê e nós a vemos.
 She's traveling in Asia right now. = Ela está viajando na Ásia neste momento.
 She usually goes out for lunch. = Ela normalmente sai para almoçar.
 She wants to get a smaller table. = Ela quer comprar uma mesa menor.
 She works as a waitress as well. = Ela trabalha como garçonete também.
+She worried about her baby. = Ela se preocupava muito como o bebê dela.
 
 Sleeping indoors is safer. = Dormir em um lugar fechado é mais seguro.
 
@@ -424,7 +448,7 @@ Some of the boys play whenball. = Alguns dos meninos jogam basquete.
 Some of my friends go dancing every week. = Alguns dos meus amigos vão dançar todas as semanas.
 
 Sorry, I'm not from France and I don't speak French. = Desculpe, eu não sou da França e não falo francês.
-
+Sorry I used a pen. = Desculpe eu usei uma caneta.
 Smoking indoors is not safe. = Fumar em um lugar fechado não é seguro.
 Students, can you see the blackboard from the back of the classroom? Alunos, vocês conseguem ver o quadro-negro do fundo da sala de aula?
 
@@ -432,7 +456,9 @@ That actor always dances really well. = Esse ator sempre dança muito bem.
 That car is turning left. = Aquele carro está virando à esquerda.
 That watch is eighteen dollars. Aquele relógio é dezoito dólares.
 
+The boys wanted to go swimming. = Os meninos queriam ir nadar.
 The bookstore isn't on this street. = A livraria não é nesta rua.
+The bookstore was not open. = A livraria não estava aberta.
 The bus arrives at 3 p.m = O onibus chega as 3 horas da tarde
 The bus is leaving, are we ready to go? = O ônibus está saindo, nós estamos prontos para ir.
 The bus never stops in my town. = O ônibus nunca para na minha cidade.
@@ -451,7 +477,9 @@ The pencil are cheaper than the pens. = Os lápis são mais baratos do que as ca
 The restaurant is past the bus station. = O restaurante é além da rodoviária.
 The richest people in the country. = As pessoas mais ricas do país.
 The soccer game is on the radio. = O jogo de futebol está no radio.
+The students worried about the test. = Os alunos se preocuparam com o teste.
 The teachers at my daughter's school are really good. = Os professores na escola da minha filha são muito bons.
+The teacher liked your answer! = A professora gostou da sua resposta!
 The teacher talked to them after class. = O professor falou com elas depois da aula.
 Their oldest child is fifteen years old. = O filho mais velho deles tem quinze anos de idade.
 Their train arrives at 10 a.m. = O trem deles chega às 10 da manhã.
@@ -490,7 +518,8 @@ They have many conversations about sports. = Eles têm muitas conversas sobre es
 They lived there for two months. = Elas viveram lá por dois meses.
 They need to go to school. = Eles precisam ir para a escola.
 They often go out for lunch. = Eles frequentemente saem para almoçar.
-
+They enjoyed fishing with their dad. = Eles curtiram pescar com o pai deles.
+They weren't ready to go. = Eles não estavam prontos para ir.
 They play music here on Fridays. = Eles tocam música aqui nas sextas-feiras.
 
 Thirty million people. = Trinta milhões de pessoas.
@@ -515,6 +544,9 @@ Turn right. = Vire à direita.
 Walk past the bus stop and turn right. = Ande além da paragem de ônibus e vire à direita.
 Walk past the bus stop and turn right. = Ande além da paragem de ônibus e vire à direita.
 
+Was he angry about something? = Ele estava irritado por algo?
+Was it cold? = Estava frio?
+
 We are going into the zoo now. = Nós estamos entrando no zoológico agora.
 We are going to start class at 9 a.m
 We are waiting for David.
@@ -536,6 +568,7 @@ We usually have bad weather in the fall. = Nós normalmente temos tempo ruim no 
 We usually eat lunch at this café. = Nós normalmente almoçamos neste café.
 We need to stop swimming now. = Nós precisamos parar de nadar agora.
 We really enjoy dancing together. = Nós realmente curtimos dançar juntos.
+We really wanted to go to Australia. = Nós queriamos muito ir para a Austrália.
 We want to see you again next week. = Nós queremos ver você de novo na semana que vem.
 We want to visit both towns.
 We'll go to a lot of parties in December. = Nós iremos para muitas festas em dezembro.
@@ -550,6 +583,10 @@ We're going into the zoo now. = Nós estamos entrando no zoológico agora.
 We're going out for dinner. = Nós estamos saindo para jantar.
 
 Wendy does a German lesson every day. = Wendy faz uma lição de alemão todos os dias.
+
+Were you angry? = Você estava irritado?
+Were you tired? = Você estava cansado?
+
 
 Will you go to the supermarket and get some bread? = Você irá para o supermercado e comprará um pouco de pão?
 Will the store be open then? = A loja estará aberta então?
@@ -624,6 +661,10 @@ Who is helping you? = Quem está ajudando você?
 Who is the richest person in China? = Quem é a pessoa mais rica da China?
 Who is the richest soccer player in the world? = Quem é o jogador de futebol mais rico do mundo?
 Who is the woman with the big glasses?
+Who needed help? = Quem precisou de ajuda?
+Who showed you the answer? = Quem mostrou a resposta a você?
+Who studied for the test? = Quem estudou para o teste?
+Who wanted more juice? = Quem quer mais suco?
 
 Would you like anything to drink? = Você gostaria de alguma coisa para beber?
 Would you like red or white wine?
