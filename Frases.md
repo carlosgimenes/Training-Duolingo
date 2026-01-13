@@ -587,7 +587,6 @@ Wendy does a German lesson every day. = Wendy faz uma lição de alemão todos o
 Were you angry? = Você estava irritado?
 Were you tired? = Você estava cansado?
 
-
 Will you go to the supermarket and get some bread? = Você irá para o supermercado e comprará um pouco de pão?
 Will the store be open then? = A loja estará aberta então?
 
@@ -682,3 +681,36 @@ You need to ask for an appointment. = Você precisa pedir uma consulta.
 You need to come early to your appointment. = Você precisa vir cedo para sua consulta.
 
 Your dad called yesterday. = Seu pai ligou ontem.
+Yes, the yellow ones are cheaper.
+Her party is going to be great!
+This restaurant is going to get good reviews.
+Chocolate is much sweeter than fruit.
+Oh no, it's going to rain again!
+I'd like to go to Spain because I like the warm weather there!
+Which of these two books do you like better?
+I don't think so, Peter.
+He's too tall to ride a horse!
+He's looking at the ads because he needs a job.
+The black skirt is the shortest of all.
+Can you walk to work?
+My baby can't have lunch, he doesn't have teeth!
+We can begin the studies.
+I don't like taking a shower when it's cold.
+That's eleven dollars and seventy cents.
+What company do you work for?
+Who is the best worker at the company?
+The company changed its name.
+We changed the time of the picnic.
+Do you want to change anything in the job ad?
+We sold thirteen thousand bottles of beer.
+She began the meeting on time.
+The boss knew about the problems
+We began the meeting at two thirty.
+Who's the boss talking to?
+Our boss gave us the schedule for the week.
+Has Sofia ever worked as a cook?
+I have never had a pet.
+Have you always loved dogs?
+We have been ready for an hour
+You've never come to a meeting on time!
+Well, you've already had three chicken sandwiches!
