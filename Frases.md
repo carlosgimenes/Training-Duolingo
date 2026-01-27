@@ -714,3 +714,21 @@ Have you always loved dogs?
 We have been ready for an hour
 You've never come to a meeting on time!
 Well, you've already had three chicken sandwiches!
+
+- Both universities are famous. = Ambas as universidades são famosas.
+- Has he ever worked in an office? = Ele já trabalhou em um escritório alguma vez?
+- Has Maria ever played the guitar? = Maria já tocou violão alguma vez?
+- Have you ever studied Japanese? = Você já estudou japonès?
+- He's practicing guitar in his bedroom. = Ele está praticando violão no quarto dele.
+- I did not believe him. = Eu não acreditei nele.
+- I do not believe that he can be there. = Eu não acredito que ele possa estar lá.
+- I don't want to go out for dinner. = Eu não quero sair para jantar.
+- I love singing! = Eu amo cantar!
+- I've already been to the zoo. = Eu já fui ao zoológico.
+- I've been to London already. = Eu já fui para Londres.
+- My little sister has never played this game. = Minha irmã mais nova nunca jogou este jogo.
+- The taxis are behind the train station. = Os táxis estão atrás da estação de trem.
+- The tickets are expensive. = Os bilhetes são caros.
+- They haven't come to our house yet.
+- We have only known them for a short time. = Nós só as conhecemos há pouco tempo.
+- We've had lunch already. = Nós já almoçamos.
